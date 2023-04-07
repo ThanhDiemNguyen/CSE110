@@ -11,10 +11,13 @@
 * Files on my **repository** [`CSE110`](https://github.com/ThanhDiemNguyen/CSE110)
 
 ---
+
 ```
-1.[`README.md`](./README.md)
-2.[`index.md`](./index.md)
+1.[`README.md`](README.md)
+2.index.md
+
 ```
+
 * The index.md file includes:
 - [x] Headings
 - [x] Styling text
