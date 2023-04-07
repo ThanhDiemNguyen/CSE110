@@ -13,6 +13,9 @@
 ---
 
 ```
+1. screenshots
+2. .gitignore
+3. PRIVATE.txt
 1.README.md
 2.index.md
 
