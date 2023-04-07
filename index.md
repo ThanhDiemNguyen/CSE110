@@ -13,7 +13,7 @@
 ---
 
 ```
-1.[README.md](README.md)
+1.[README.md](../README.md)
 2.index.md
 
 ```
