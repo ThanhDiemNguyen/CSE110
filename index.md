@@ -1,6 +1,6 @@
 # Thanh Diem Nguyen - Lab Week 1 
 [`View ThanhDiemNguyen CSE110 on Github`](https://github.com/ThanhDiemNguyen/CSE110) 
-
+[🔗](#Hi-everyone!)
 ## *Hi everyone!*
 
 ![7E78CD74-](https://user-images.githubusercontent.com/114208205/191907066-ca176fc1-3578-49a0-b154-fbe6d90d6c0c.JPG) 
@@ -12,9 +12,18 @@
 
 ---
 ```
-1.[`README.md`]()
-2.[`index.md`]()
+1.[`README.md`](./README.md)
+2.[`index.md`](./index.md)
 ```
-
+* The index.md file includes:
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section links
+- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Ordered and Unordered Lists
+- [x] Task lists
 
 > If you have any questions, contact me [`ThanhDiemNguyen`](https://github.com/ThanhDiemNguyen)
