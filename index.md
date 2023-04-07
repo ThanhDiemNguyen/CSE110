@@ -13,12 +13,12 @@
 ---
 
 ```
-1.[R](README.md)
+1.README.md
 2.index.md
 
 ```
 
-* The index.md file includes:
+* The [index.md](index.md) file includes:
 - [x] Headings
 - [x] Styling text
 - [x] Quoting text
